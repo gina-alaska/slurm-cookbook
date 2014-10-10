@@ -1,0 +1,10 @@
+name             'slurm'
+maintainer       'UAFGINA'
+maintainer_email 'scott@gina.alaska.edu'
+license          'All rights reserved'
+description      'Installs/Configures slurm'
+long_description 'Installs/Configures slurm'
+version          '0.1.0'
+
+depends 'yum-puias'
+depends 'nfs'
